@@ -9,3 +9,5 @@ This repository contains structured, automated labs focusing on Linux administra
 ## 🛠️ Project Challenges
 - **Size Optimization:** Resolved GitHub's 100MB limit by pruning repository history and implementing `.gitignore`.
 - **Git Security:** Configured **Personal Access Tokens (PAT)** for secure VMware authentication.
+
+3. [System Monitoring Lab](./03_System_Monitoring) - Resource tracking and process management.
